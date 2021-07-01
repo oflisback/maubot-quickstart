@@ -88,7 +88,7 @@ docker start maubot
 
 14. Add an instance: Enter an ID of your choice, select primary user (mybot) and type (the plugin). Click 'Create'.
 
-15. The bot should now be up and running and connected to its homeserver. Try inviting it to your room via its RXID and send a chat message containing "!roll" to the room. If everything works the bot should roll a dice for you and respond with the outcome.
+15. The bot should now be up and running and connected to its homeserver. Try inviting it to your room via its MXID and send a chat message containing "!roll" to the room. If everything works the bot should roll a dice for you and respond with the outcome.
 
 ## Troubleshooting
 
